@@ -18,4 +18,4 @@ Size chart
 | Poster has nitro |50|
 | Max boost server |100|
 
-If you have a method to simplify runner and helper to one file, please make a pull request. I'm sure there is one but this is based only one what I already had available 
+If you have a method to simplify runner and helper to one file, please make a pull request. I'm sure there is one, but this is based only on what I already had available 
