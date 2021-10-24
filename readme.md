@@ -3,7 +3,7 @@ Bash script to compress videos for discord using ffmpeg's two-pass method and VP
 Basis of the script is based on Marian Minar's two-pass script from https://stackoverflow.com/a/61146975
 
 Usage:
-1. Put in folder with videos
+1. Put scripts in folder with videos
 2. If your videos are in webm, run ./fixxer.sh (needed since the existing script doesn't pick up time on webm's)
 3. Run "./runner.sh foo" where foo is the size you need (in megabytes) [ Check chart ]
 
