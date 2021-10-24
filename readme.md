@@ -1,6 +1,6 @@
 Bash script to compress videos for discord using ffmpeg's two-pass method and VP9 encoding
 
-Basis of the script is based on Marian Minar's two-pass script from https://stackoverflow.com/a/61146975
+Basis of the script is Marian Minar's two-pass script from https://stackoverflow.com/a/61146975
 
 Usage:
 1. Put scripts in folder with videos
